@@ -1,0 +1,17 @@
+h1 {
+	color: deepskyblue;
+}
+
+body {
+	background-color: #E5E6E6;
+}
+
+.container-fluid {
+	background-color: #D0F5FC;
+	padding-bottom: 20px;
+}
+
+img {
+	width:200px;
+	height: auto;
+}
